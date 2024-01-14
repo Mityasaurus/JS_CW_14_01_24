@@ -1,0 +1,26 @@
+{
+  "name": "js_cw_14_01_24",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html",
+    "watch": "parcel watch src/index.html",
+    "server": "json-server --watch db.json -p 4040"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "console-browserify": "^1.2.0",
+    "parcel": "^2.11.0",
+    "process": "^0.11.10",
+    "util": "^0.12.5"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.21"
+  }
+}

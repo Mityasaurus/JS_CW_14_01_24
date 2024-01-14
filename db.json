@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "710e",
+      "login": "Dmytro",
+      "email": "mitya@gmail.com",
+      "password": "789",
+      "confirmPassword": "789"
+    },
+    {
+      "id": "afe2",
+      "login": "Oleg",
+      "email": "oleg@gmail.com",
+      "password": "789",
+      "confirmPassword": "789"
+    },
+    {
+      "id": "9196",
+      "login": "Mityasaurus",
+      "email": "mitya@gmail.com",
+      "password": "789",
+      "confirmPassword": "789"
+    }
+  ]
+}
